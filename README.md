@@ -9,7 +9,6 @@ This repository contains a machine learning and deep learning project focused on
 - [Methods](#methods)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
 
 ## Project Overview
@@ -62,9 +61,6 @@ cd iris-dataset-ml
 
 4. Open and run the Jupyter notebooks (`logistic_regression.ipynb` and `neural_network.ipynb`) to explore the code and execute the machine learning models.
 
-## Results
-
-In the `results` folder, you'll find the output of your experiments, including model performance metrics, accuracy, and visualizations of the results. Feel free to include any insights or observations you've made during your experiments.
 
 ## Contributing
 
