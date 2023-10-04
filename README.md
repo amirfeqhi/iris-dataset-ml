@@ -11,7 +11,6 @@ This repository contains a machine learning and deep learning project focused on
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -76,7 +75,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them: `git commit -m "Add new feature"`.
 4. Push to your forked repository: `git push origin feature/new-feature`.
 5. Create a pull request to merge your changes into the main repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
