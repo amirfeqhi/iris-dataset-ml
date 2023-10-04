@@ -1,6 +1,6 @@
 # Iris Dataset Machine Learning Project
 
-This repository contains a machine learning and deep learning project focused on the Iris dataset. The project implements two different methods for classifying Iris flowers: Logistic Regression and Feed Forward Neural Network. It serves as a practical exercise to apply machine learning and deep learning concepts learned in your studies.
+This repository contains a machine learning and deep learning project focused on the Iris dataset. The project implements two different methods for classifying Iris flowers: Logistic Regression and Feed Forward Neural Network. It serves as a practical exercise to apply machine learning and deep learning concepts learned in my studies.
 
 ## Table of Contents
 
