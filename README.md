@@ -1,6 +1,6 @@
 # Iris Dataset Machine Learning Project
 
-This repository contains a machine learning and deep learning project focused on the Iris dataset. The project implements two different methods for classifying Iris flowers: Logistic Regression and Feed Forward Neural Network. It serves as a practical exercise to apply machine learning and deep learning concepts learned in your studies.
+This repository contains a machine learning and deep learning project focused on the Iris dataset. The project implements two different methods for classifying Iris flowers: Logistic Regression and Feed Forward Neural Network. It serves as a practical exercise to apply machine learning and deep learning concepts learned in my studies.
 
 ## Table of Contents
 
@@ -9,9 +9,7 @@ This repository contains a machine learning and deep learning project focused on
 - [Methods](#methods)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
@@ -63,9 +61,6 @@ cd iris-dataset-ml
 
 4. Open and run the Jupyter notebooks (`logistic_regression.ipynb` and `neural_network.ipynb`) to explore the code and execute the machine learning models.
 
-## Results
-
-In the `results` folder, you'll find the output of your experiments, including model performance metrics, accuracy, and visualizations of the results. Feel free to include any insights or observations you've made during your experiments.
 
 ## Contributing
 
@@ -76,7 +71,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Make your changes and commit them: `git commit -m "Add new feature"`.
 4. Push to your forked repository: `git push origin feature/new-feature`.
 5. Create a pull request to merge your changes into the main repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
